@@ -31,7 +31,9 @@
 
 | Year | Event | Topic |
 |------|-------|-------|
-| 2024 | CYBERSEC | [雲端安全新視野：以開源工具解決雲端資安盲點](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
+| 2024 | CYBERSEC 資安大會 | [雲端安全新視野：以開源工具解決雲端資安盲點](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
+| 2023 | [AWS Community Day Taiwan](https://awscmd.tw/2023/index.html) | 勇敢抵禦！怕痛的我，把防禦力點滿就對了：探索 OpenAppSec 在 AWS 上的無懼之道 |
+| 2022 | CYBERSEC 資安大會 | 攻破駭客隱藏手腳 - 微軟端點防護 *(Microsoft 攤位特邀講師)* |
 
 ---
 
