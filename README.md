@@ -7,10 +7,10 @@
 
 ### About Me
 
-- 🔭 Building **[Athena](https://github.com/astroicers/Athena)** - AI-driven C5ISR platform for cyber operations
-- 🛡️ Maintaining **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - 台灣資安術語標準化平台
-- ☁️ Created **[outline-terraform-aws](https://github.com/astroicers/outline-terraform-aws)** - Deploy Outline Wiki on AWS
-- 📍 Based in Taiwan
+- 🔭 正在開發 **[Athena](https://github.com/astroicers/Athena)** - AI 驅動的 C5ISR 網路作戰指揮平台
+- 🛡️ 維護 **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - 台灣資安術語標準化平台
+- 🐳 建立 **[outline-docker](https://github.com/astroicers/outline-docker)** - Outline Wiki + Keycloak 一鍵部署
+- ☁️ 建立 **[outline-terraform-aws](https://github.com/astroicers/outline-terraform-aws)** - 在 AWS 上部署 Outline Wiki
 
 ### Tech Stack
 
@@ -20,3 +20,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### Certifications
+
+- 🎯 OSCP (Offensive Security Certified Professional)
+- ☁️ AWS Solutions Architect – Associate
+- 🔒 CCSK (Certificate of Cloud Security Knowledge)
+
+### Speaking
+
+| Year | Event | Topic |
+|------|-------|-------|
+| 2024 | CYBERSEC | [雲端安全新視野：以開源工具解決雲端資安盲點](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
+
+---
+
+*"Stay curious, stay paranoid."*
