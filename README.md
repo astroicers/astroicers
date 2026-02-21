@@ -8,9 +8,11 @@
 ### About Me
 
 - 🔭 正在開發 **[Athena](https://github.com/astroicers/Athena)** - AI 驅動的 C5ISR 網路作戰指揮平台
+- 🤖 建立 **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server 驅動的資安週報自動化系統
 - 🛡️ 維護 **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - 台灣資安術語標準化平台
-- 🐳 建立 **[outline-docker](https://github.com/astroicers/outline-docker)** - Outline Wiki + Keycloak 一鍵部署
-- ☁️ 建立 **[outline-terraform-aws](https://github.com/astroicers/outline-terraform-aws)** - 在 AWS 上部署 Outline Wiki
+- 🔍 開發 **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code 擴充套件供應鏈安全掃描器
+- 📄 建立 **[typst-api](https://github.com/astroicers/typst-api)** - Typst 文件轉 PDF/PNG/SVG 的容器化 API 服務
+- 📱 開發 **[vibe-remote](https://github.com/astroicers/vibe-remote)** - 手機端 AI 寫程式遙控器（Claude Agent SDK）
 
 ### Tech Stack
 
