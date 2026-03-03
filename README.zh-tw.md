@@ -10,6 +10,8 @@
 ### 關於我
 
 - 🔭 正在開發 **[Athena](https://github.com/astroicers/Athena)** - AI 驅動的 C5ISR 網路作戰指揮平台
+- 📐 建立 **[AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol)** - 將開發文化編碼為 AI 可讀約束的標準化協定
+- 🔬 建立 **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - 一鍵部署 Ghidra + MCP 於 WSL2，AI 輔助逆向工程
 - 🤖 建立 **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server 驅動的資安週報自動化系統
 - 🛡️ 維護 **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - 台灣資安術語標準化平台
 - 🔍 開發 **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code 擴充套件供應鏈安全掃描器

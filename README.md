@@ -10,6 +10,8 @@
 ### About Me
 
 - 🔭 Building **[Athena](https://github.com/astroicers/Athena)** - AI-driven C5ISR cyber warfare command platform
+- 📐 Created **[AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol)** - Standardized protocol for encoding dev culture into AI-readable constraints
+- 🔬 Created **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - One-click Ghidra + MCP deployment on WSL2 for AI-assisted reverse engineering
 - 🤖 Created **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server-powered security weekly report automation
 - 🛡️ Maintaining **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - Taiwan cybersecurity terminology standardization
 - 🔍 Developed **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code extension supply chain security scanner
