@@ -9,7 +9,7 @@
 
 ### 關於我
 
-- 🔭 正在開發 **[Athena](https://github.com/astroicers/Athena)** - AI 驅動的 C5ISR 網路作戰指揮平台
+- 🔭 正在開發 **[Athena](https://github.com/astroicers/Athena)** - AI 驅動的 C5ISR + OODA 網路作戰指揮平台（Rust 全重寫）
 - 📐 建立 **[AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol)** - 將開發文化編碼為 AI 可讀約束的標準化協定
 - 🔬 建立 **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - 一鍵部署 Ghidra + MCP 於 WSL2，AI 輔助逆向工程
 - 🤖 建立 **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server 驅動的資安週報自動化系統
@@ -37,6 +37,7 @@
 
 | 年份 | 活動 | 主題 |
 |------|------|------|
+| 2026 | CYBERSEC 資安大會 | [AI 從小兵變指揮官，擊殺鏈如何從工具箱進化為核彈](https://cybersec.ithome.com.tw/2026/session/4231) *(AI Offense 論壇)* |
 | 2024 | CYBERSEC 資安大會 | [雲端安全新視野：以開源工具解決雲端資安盲點](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
 | 2023 | [AWS Community Day Taiwan](https://awscmd.tw/2023/index.html) | 勇敢抵禦！怕痛的我，把防禦力點滿就對了：探索 OpenAppSec 在 AWS 上的無懼之道 |
 | 2022 | CYBERSEC 資安大會 | 攻破駭客隱藏手腳 - 微軟端點防護 *(Microsoft 攤位特邀講師)* |

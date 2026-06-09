@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 🔭 Building **[Athena](https://github.com/astroicers/Athena)** - AI-driven C5ISR cyber warfare command platform
+- 🔭 Building **[Athena](https://github.com/astroicers/Athena)** - AI-driven C5ISR + OODA cyber warfare command platform (Rust)
 - 📐 Created **[AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol)** - Standardized protocol for encoding dev culture into AI-readable constraints
 - 🔬 Created **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - One-click Ghidra + MCP deployment on WSL2 for AI-assisted reverse engineering
 - 🤖 Created **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server-powered security weekly report automation
@@ -37,6 +37,7 @@
 
 | Year | Event | Topic |
 |------|-------|-------|
+| 2026 | CYBERSEC Conference | [AI from Foot Soldier to Commander: How the Kill Chain Evolves from Toolbox to Nuclear Weapon](https://cybersec.ithome.com.tw/2026/session/4231) *(AI Offense Forum)* |
 | 2024 | CYBERSEC Conference | [New Perspectives on Cloud Security: Solving Cloud Security Blind Spots with Open Source Tools](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
 | 2023 | [AWS Community Day Taiwan](https://awscmd.tw/2023/index.html) | Fearless Defense: Exploring OpenAppSec on AWS |
 | 2022 | CYBERSEC Conference | Breaking Through Hacker Concealment - Microsoft Endpoint Protection *(Microsoft Partner Speaker)* |
