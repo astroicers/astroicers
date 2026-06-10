@@ -14,11 +14,11 @@
   - **[asp-operator](https://github.com/astroicers/asp-operator)** - ASP's perception layer: polls GitHub Issues every 30 min into per-repo task inboxes
 - 🛡️ **Taiwan security content** automation
   - **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server-powered security weekly report (32 intl & TW sources)
-  - **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - Taiwan cybersecurity terminology, 400+ standardized terms · [site](https://glossary.astroicers.link)
+  - **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - Taiwan cybersecurity terminology, 400+ standardized terms
+  - 🌐 **[Security Glossary site](https://glossary.astroicers.link)** - Searchable web glossary of 400+ Taiwan security terms
 - 🔬 Created **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - One-click Ghidra + MCP deployment on WSL2 for AI-assisted reverse engineering
 - 🔍 Developed **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code extension supply chain security scanner
 - 📄 Created **[typst-api](https://github.com/astroicers/typst-api)** - Containerized API for converting Typst documents to PDF/PNG/SVG
-- 📱 Developed **[vibe-remote](https://github.com/astroicers/vibe-remote)** - Mobile-first agentic coding gateway (Claude Agent SDK)
 
 ### Tech Stack
 
@@ -39,10 +39,10 @@
 
 | Year | Event | Topic |
 |------|-------|-------|
-| 2026 | CYBERSEC Conference | [AI from Foot Soldier to Commander: How the Kill Chain Evolves from Toolbox to Nuclear Weapon](https://cybersec.ithome.com.tw/2026/session/4231) *(AI Offense Forum)* |
-| 2024 | CYBERSEC Conference | [New Perspectives on Cloud Security: Solving Cloud Security Blind Spots with Open Source Tools](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
+| 2026 | [CYBERSEC Conference](https://cybersec.ithome.com.tw/) | [AI from Foot Soldier to Commander: How the Kill Chain Evolves from Toolbox to Nuclear Weapon](https://cybersec.ithome.com.tw/2026/session/4231) *(AI Offense Forum)* |
+| 2024 | [CYBERSEC Conference](https://cybersec.ithome.com.tw/) | [New Perspectives on Cloud Security: Solving Cloud Security Blind Spots with Open Source Tools](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
 | 2023 | [AWS Community Day Taiwan](https://awscmd.tw/2023/index.html) | Fearless Defense: Exploring OpenAppSec on AWS |
-| 2022 | CYBERSEC Conference | Breaking Through Hacker Concealment - Microsoft Endpoint Protection *(Microsoft Partner Speaker)* |
+| 2022 | [CYBERSEC Conference](https://cybersec.ithome.com.tw/) | Breaking Through Hacker Concealment - Microsoft Endpoint Protection *(Microsoft Partner Speaker)* |
 
 ---
 
