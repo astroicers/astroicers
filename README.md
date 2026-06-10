@@ -11,9 +11,11 @@
 
 - 🔭 Building **[Athena](https://github.com/astroicers/Athena)** - AI-driven C5ISR + OODA cyber warfare command platform (Rust)
 - 📐 Created **[AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol)** - Standardized protocol for encoding dev culture into AI-readable constraints
+  - **[asp-operator](https://github.com/astroicers/asp-operator)** - ASP's perception layer: polls GitHub Issues every 30 min into per-repo task inboxes
+- 🛡️ **Taiwan security content** automation
+  - **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server-powered security weekly report (32 intl & TW sources)
+  - **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - Taiwan cybersecurity terminology, 400+ standardized terms · [site](https://glossary.astroicers.link)
 - 🔬 Created **[Ghidra-MCP-WSL-Auto](https://github.com/astroicers/Ghidra-MCP-WSL-Auto)** - One-click Ghidra + MCP deployment on WSL2 for AI-assisted reverse engineering
-- 🤖 Created **[security-weekly-mcp](https://github.com/astroicers/security-weekly-mcp)** - MCP Server-powered security weekly report automation
-- 🛡️ Maintaining **[security-glossary-tw](https://github.com/astroicers/security-glossary-tw)** - Taiwan cybersecurity terminology standardization
 - 🔍 Developed **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code extension supply chain security scanner
 - 📄 Created **[typst-api](https://github.com/astroicers/typst-api)** - Containerized API for converting Typst documents to PDF/PNG/SVG
 - 📱 Developed **[vibe-remote](https://github.com/astroicers/vibe-remote)** - Mobile-first agentic coding gateway (Claude Agent SDK)
