@@ -1,8 +1,8 @@
 [🇺🇸 English](README.md) | [🇹🇼 繁體中文](README.zh-tw.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://astroicers.link/gh/banner-dark.svg">
-  <img alt="Astroicers — Offensive Security · Infrastructure · Open Source" src="https://astroicers.link/gh/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-en-dark.svg">
+  <img alt="Astroicers — Offensive Security · Infrastructure · Open Source" src="./assets/card-en-light.svg" width="100%">
 </picture>
 
 # Hi, I'm Harry Chen 👋
