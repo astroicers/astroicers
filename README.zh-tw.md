@@ -5,13 +5,6 @@
   <img alt="Astroicers — Offensive Security · Infrastructure · Open Source" src="./assets/card-zh-light.svg" width="100%">
 </picture>
 
-# 嗨,我是 Harry Chen 👋
-
-## 攻擊安全 | 基礎架構 | 開源
-
-[![Blog](https://img.shields.io/badge/Blog-astroicers.link-blue?style=flat-square&logo=hugo)](https://astroicers.link)
-[![GitHub](https://img.shields.io/github/followers/astroicers?label=Follow&style=social)](https://github.com/astroicers)
-
 資安工程師,從紅隊演練與滲透測試起家。這幾年在做的事,是把攻擊者的那套思維寫成開源工具:一個 AI 自己挑目標、下手法的自主紅隊平台,一套把開發準則變成 AI 護欄的協定,還有台灣資安內容的自動化。搞懂攻擊才守得住,而工具是把這份理解留給下一個人的方法。
 
 ### 關於我
@@ -34,11 +27,6 @@
   - **[zst2vmdk](https://github.com/astroicers/zst2vmdk)** - 把 Zstandard 壓縮的 VMA 檔轉成 VMDK,供虛擬機遷移使用
   - **[extension-guard](https://github.com/astroicers/extension-guard)** - VS Code 擴充套件的供應鏈安全掃描器
 
-### 公開紀錄
-
-- 發現並回報 Trend Micro 官網 XSS 漏洞(2020)
-- 發現並回報 Dcard 官網 Open Redirect 漏洞(2020)
-
 ### 技術棧
 
 **程式語言** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) · ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) · ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) · C · Bash
@@ -48,34 +36,6 @@
 **雲端與容器** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) · ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) · ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) · AWS · Azure
 
 **專業領域** Red Team · Penetration Testing · Cloud Security · Zero Trust · Supply Chain Security · Reverse Engineering
-
-### 專業證照
-
-**Offensive Security**
-
-- 🎯 OSCP (Offensive Security Certified Professional)
-
-**Cloud Security**
-
-- 🔒 CCSK (Certificate of Cloud Security Knowledge)
-- ☁️ AWS SAA (AWS Solutions Architect – Associate)
-
-**Others**
-
-- 🚨 ECIH (EC-Council Certified Incident Handler)
-- 🐧 RHCSA (Red Hat Certified System Administrator)
-- ☁️ Azure Fundamentals (Microsoft Azure Fundamentals)
-- 🪟 MCSE (Microsoft Certified Solutions Expert)
-
-### 演講經歷
-
-| 年份 | 活動 | 主題 |
-|------|------|------|
-| 2026 | [COSCUP × UbuCon Asia 2026](https://coscup.org/2026/) (Hackers In Taiwan) | [打造 OODA 原生的紅隊平台:當 AI 指揮擊殺鏈](https://coscup.org/2026/session/EHKNXW) *(與 Alex Chih 合講)* |
-| 2026 | [CYBERSEC 資安大會](https://cybersec.ithome.com.tw/) | [AI 從小兵變指揮官,擊殺鏈如何從工具箱進化為核彈](https://cybersec.ithome.com.tw/2026/session/4231) *(AI 攻擊論壇)* |
-| 2024 | [CYBERSEC 資安大會](https://cybersec.ithome.com.tw/) | [雲端安全新視野:以開源工具解決雲端資安盲點](https://pastevent.cybersec.ithome.com.tw/2024/session-page/2719) |
-| 2023 | [AWS Community Day Taiwan](https://awscmd.tw/2023/index.html) | 勇敢抵禦!怕痛的我,把防禦力點滿就對了:探索 OpenAppSec 在 AWS 上的無懼之道 |
-| 2022 | [CYBERSEC 資安大會](https://cybersec.ithome.com.tw/) | 攻破駭客隱藏手腳 - 微軟端點防護 *(Microsoft 攤位特邀講師)* |
 
 ### 站外連結
 

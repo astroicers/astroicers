@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="858" viewBox="0 0 900 858" role="img" aria-labelledby="cardTitle cardDesc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="868" viewBox="0 0 900 868" role="img" aria-labelledby="cardTitle cardDesc">
 <title id="cardTitle">Astroicers — Offensive Security · Infrastructure · Open Source</title>
 <desc id="cardDesc">Security engineer, out of red teaming and penetration testing. What I have been doing these last few years is writing the attacker's way of thinking into open source: an autonomous red-team platform where the AI picks its own targets and techniques, a protocol that compiles a development playbook into guardrails for AI, and the automation behind Taiwan's security content. You cannot defend what you do not understand attacking — and tools are how that understanding gets handed to the next person.</desc>
-<rect x="0.5" y="0.5" width="899" height="857" rx="2" fill="#ededef" stroke="#c4c4cb"/>
+<rect x="0.5" y="0.5" width="899" height="867" rx="2" fill="#ededef" stroke="#c4c4cb"/>
 <g transform="translate(44,36) scale(0.78)" fill="none">
     <rect x="6" y="6" width="52" height="52" rx="3" stroke="#16161a" stroke-width="2.5"/>
     <line x1="14" y1="50" x2="50" y2="14" stroke="#16161a" stroke-width="2"/>
@@ -11,12 +11,12 @@
   </g>
 <rect x="112" y="46" width="196" height="26" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
 <circle cx="127" cy="59" r="3.5" fill="#21509e"/>
-<text x="139" y="63" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="2" text-anchor="start">STATUS · LISTENING</text>
+<text x="139" y="63" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="2" text-anchor="start">OPEN FOR TALKS</text>
 <text x="44" y="112" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" text-anchor="start">ASTROICERS · TAIPEI, TAIWAN</text>
-<text x="44" y="164" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="38" font-weight="600" text-anchor="start">I write the attacker's</text>
-<text x="44" y="210" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="38" font-weight="600" text-anchor="start">way of thinking</text>
+<text x="44" y="164" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="38" font-weight="600" text-anchor="start">Red team background.</text>
+<text x="44" y="210" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="38" font-weight="600" text-anchor="start">Now I write that</text>
 <text x="44" y="256" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="38" font-weight="600" text-anchor="start">into open source.</text>
-<text x="44" y="330" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2" text-anchor="start">OFFENSIVE SECURITY · ATHENA · STARSEAM</text>
+<text x="44" y="330" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2" text-anchor="start">OFFENSIVE SECURITY · INFRASTRUCTURE · OPEN SOURCE</text>
 <text x="44" y="358" fill="#52565f" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="400" text-anchor="start">astroicers.link →</text>
 <rect x="556" y="100" width="300" height="192" rx="2" fill="#fafafb" stroke="#dcdce0"/>
 <text x="576" y="126" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">SELECTED MARKS</text>
@@ -35,38 +35,41 @@
 <rect x="576" y="263" width="2.5" height="12" fill="#6b7280"/>
 <text x="588" y="272" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="600" text-anchor="start">RHCSA</text>
 <text x="588" y="286" fill="#5e5e66" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="9.5" font-weight="400" text-anchor="start">Red Hat Certified System Administrator</text>
-<line x1="44" y1="412" x2="856" y2="412" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="446" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">DESIGN SYSTEM · SHADCN REGISTRY</text>
-<text x="856" y="446" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">56 ITEMS · TAILWIND V4 · WCAG 2.2 AA</text>
-<text x="44" y="480" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="25" font-weight="600" text-anchor="start">starseam</text>
-<text x="44" y="506" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">A personal design system: plates stacked on plates, rivetted by stars.</text>
-<rect x="44" y="532" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
-<circle cx="66" cy="553" r="7" fill="#21509e" stroke="#6b7280" stroke-width="1"/>
-<text x="84" y="550" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">瑠璃</text>
-<text x="84" y="564" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#21509e · live signal</text>
-<rect x="222" y="532" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
-<circle cx="244" cy="553" r="7" fill="#6b7280" stroke="#6b7280" stroke-width="1"/>
-<text x="262" y="550" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">銀鼠</text>
-<text x="262" y="564" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#6b7280 · rivet</text>
-<rect x="400" y="532" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
-<circle cx="422" cy="553" r="7" fill="#ededef" stroke="#6b7280" stroke-width="1"/>
-<text x="440" y="550" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">紙</text>
-<text x="440" y="564" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#ededef · ground</text>
-<line x1="44" y1="608" x2="856" y2="608" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="640" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">SPEAKING · CYBERSEC / COSCUP</text>
-<text x="856" y="640" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">TITLES VERBATIM · ZH-TW / EN</text>
-<text x="44" y="684" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">COSCUP 2026</text>
-<text x="194" y="684" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">Building an OODA-Native Red Team Platform Where AI Commands the Kill Chain</text>
-<line x1="44" y1="698" x2="856" y2="698" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="716" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">CYBERSEC 2026</text>
-<text x="194" y="716" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">AI from Foot Soldier to Commander: How the Kill Chain Evolves from Toolbox to Nuclear Weapon</text>
-<line x1="44" y1="730" x2="856" y2="730" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="748" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">CYBERSEC 2024</text>
-<text x="194" y="748" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">New Perspectives on Cloud Security: Solving Cloud Security Blind Spots with Open Source Tools</text>
-<line x1="44" y1="762" x2="856" y2="762" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="780" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">AWS CMD 2023</text>
-<text x="194" y="780" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">Fearless Defense: Exploring OpenAppSec on AWS</text>
-<line x1="44" y1="794" x2="856" y2="794" stroke="#dcdce0" stroke-width="1"/>
-<text x="44" y="824" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">GITHUB.COM/ASTROICERS</text>
-<text x="856" y="824" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">ASTROICERS.LINK · TAIPEI</text>
+<line x1="44" y1="390" x2="856" y2="390" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="424" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">DESIGN SYSTEM · SHADCN REGISTRY</text>
+<text x="856" y="424" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">56 ITEMS · TAILWIND V4 · WCAG 2.2 AA</text>
+<text x="44" y="458" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="25" font-weight="600" text-anchor="start">starseam</text>
+<text x="44" y="484" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">A personal design system: plates stacked on plates, rivetted by stars.</text>
+<rect x="44" y="510" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
+<circle cx="66" cy="531" r="7" fill="#21509e" stroke="#6b7280" stroke-width="1"/>
+<text x="84" y="528" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">瑠璃</text>
+<text x="84" y="542" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#21509e · live signal</text>
+<rect x="222" y="510" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
+<circle cx="244" cy="531" r="7" fill="#6b7280" stroke="#6b7280" stroke-width="1"/>
+<text x="262" y="528" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">銀鼠</text>
+<text x="262" y="542" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#6b7280 · rivet</text>
+<rect x="400" y="510" width="164" height="42" rx="2" fill="#f4f4f6" stroke="#dcdce0"/>
+<circle cx="422" cy="531" r="7" fill="#ededef" stroke="#6b7280" stroke-width="1"/>
+<text x="440" y="528" fill="#16161a" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="400" text-anchor="start">紙</text>
+<text x="440" y="542" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="0.5" text-anchor="start">#ededef · ground</text>
+<line x1="44" y1="586" x2="856" y2="586" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="618" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">SPEAKING · CYBERSEC / COSCUP</text>
+<text x="856" y="618" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">TITLES VERBATIM · ZH-TW / EN</text>
+<text x="44" y="662" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">COSCUP 2026</text>
+<text x="194" y="662" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">Building an OODA-Native Red Team Platform Where AI Commands the Kill Chain</text>
+<line x1="44" y1="676" x2="856" y2="676" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="694" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">CYBERSEC 2026</text>
+<text x="194" y="694" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">AI from Foot Soldier to Commander: How the Kill Chain Evolves from Toolbox to Nuclear Weapon</text>
+<line x1="44" y1="708" x2="856" y2="708" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="726" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">CYBERSEC 2024</text>
+<text x="194" y="726" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">New Perspectives on Cloud Security: Solving Cloud Security Blind Spots with Open Source Tools</text>
+<line x1="44" y1="740" x2="856" y2="740" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="758" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">AWS CMD 2023</text>
+<text x="194" y="758" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">Fearless Defense: Exploring OpenAppSec on AWS</text>
+<line x1="44" y1="772" x2="856" y2="772" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="790" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" text-anchor="start">CYBERSEC 2022</text>
+<text x="194" y="790" fill="#52565f" font-family="'IBM Plex Sans','IBM Plex Sans TC','Noto Sans TC',system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" text-anchor="start">Breaking Through Hacker Concealment - Microsoft Endpoint Protection</text>
+<line x1="44" y1="804" x2="856" y2="804" stroke="#dcdce0" stroke-width="1"/>
+<text x="44" y="834" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="start">GITHUB.COM/ASTROICERS</text>
+<text x="856" y="834" fill="#5e5e66" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8.5" letter-spacing="2" text-anchor="end">ASTROICERS.LINK · TAIPEI</text>
 </svg>
